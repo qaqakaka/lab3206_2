@@ -11,9 +11,9 @@ int main()
     cout << "Enter second number: ";
     cin >> num2;
 
-    sum = num1 + num2;
+    sum = num1 - num2;
 
-    cout << "The sum of " << num1 << " and " << num2 << " is " << sum << endl;
+    cout << "The sub of " << num1 << " and " << num2 << " is " << sum << endl;
 
     return 0;
 }
